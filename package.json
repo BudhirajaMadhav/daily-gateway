@@ -68,7 +68,7 @@
     "lodash": "^4.17.21",
     "mysql": "^2.15.0",
     "nanoid": "^3.1.25",
-    "pino": "^6.13.1",
+    "pino": "^7.6.2",
     "request": "^2.85.0",
     "request-promise-native": "^1.0.9"
   },
